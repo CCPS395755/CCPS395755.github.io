@@ -1,1 +1,46 @@
+p{
+  color: gray;}
+P{
+  font-family: Calibri;}
+ul{
+  color: lightgreen;
+}
+ul{
+  border: 10px solid blue
+}
+ol{
+  text-transform: uppercase;
+}
+ol{
+  font-family: cursive;
+}
+h1{
+  font-family: monospace;
+}
+h1{
+  color: dodgerblue;
+}
+header{
+   font-family: Tahoma;
+}
+header{
+  color: pink;
+}
+body{
+    color: lightgray;
+}
+body{
+   color:darkorange;
+}
+footer{
+   font-family: cursive;
+}
+footer{
+  text-transform: uppercase;
+}
+
+
+
+
+
 
